@@ -1,10 +1,10 @@
-# pandas 
-# scikit-learn
-# streamlit
-# altair<5
-# imghdr
+pandas 
+scikit-learn
+streamlit
+altair<5
+imghdr
 
-streamlit==1.32.2
-pandas==2.2.2
-scikit-learn==1.4.2
-altair==4.2.2
+# streamlit
+# pandas
+# scikit-learn
+# altair
